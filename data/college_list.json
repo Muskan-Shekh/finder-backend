@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Madha Institute of Engineering and Technology",
+    "location": "Chennai",
+    "type": "Chennai",
+    "courses": "17 Courses",
+    "rating": "5.0",
+    "exams": [
+      "TNEA",
+      "CBSE 12th",
+      "Tamilnadu 12th"
+    ],
+    "fees": "₹2 L",
+    "placementRating": "5.0",
+    "image": "https://images.shiksha.ws/public/mobile5/images/cat_default_mobile.png",
+    "url": "https://www.shiksha.com/college/madha-institute-of-engineering-and-technology-chennai-53971"
+  },
+  {
+    "name": "Indian Naval Academy",
+    "location": "Kannur",
+    "type": "Kannur",
+    "courses": "4 Courses",
+    "rating": "5.0",
+    "exams": [
+      "JEE Main",
+      "CBSE 12th",
+      "Kerala 12th"
+    ],
+    "fees": "₹99.79 K",
+    "placementRating": "5.0",
+    "image": "https://images.shiksha.ws/public/mobile5/images/cat_default_mobile.png",
+    "url": "https://www.shiksha.com/college/indian-naval-academy-kannur-53906"
+  },
+  {
+    "name": "IILM University",
+    "location": "Gurgaon",
+    "type": "Gurgaon",
+    "courses": "7 Courses",
+    "rating": "5.0",
+    "exams": [
+      "CBSE 12th",
+      "ISC",
+      "HBSE 12th"
+    ],
+    "fees": "₹10.8 L",
+    "placementRating": "5.0",
+    "image": "https://images.shiksha.com/mediadata/images/1676630778phpp2oDE5_s.jpeg",
+    "url": "https://www.shiksha.com/university/iilm-university-gurgaon-56587"
+  },
+  {
+    "name": "SNDT College",
+    "location": "Mumbai",
+    "type": "Mumbai",
+    "courses": "4 Courses",
+    "rating": "5.0",
+    "exams": [
+      "MHT CET",
+      "JEE Main",
+      "CBSE 12th",
+      "ISC",
+      "Karnataka 2nd PUC"
+    ],
+    "fees": "₹6.87 L",
+    "placementRating": "",
+    "image": "https://images.shiksha.com/mediadata/images/1652686180phpReW1by_s.jpeg",
+    "url": "https://www.shiksha.com/university/sndt-college-mumbai-58093"
+  },
+  {
+    "name": "College of Engineering, Phaltan",
+    "location": "Satara",
+    "type": "Satara",
+    "courses": "5 Courses",
+    "rating": "5.0",
+    "exams": [
+      "MHT CET",
+      "JEE Main"
+    ],
+    "fees": "₹2.73 L",
+    "placementRating": "5.0",
+    "image": "https://images.shiksha.ws/public/mobile5/images/cat_default_mobile.png",
+    "url": "https://www.shiksha.com/college/college-of-engineering-phaltan-satara-60113"
+  },
+  {
+    "name": "College of Engineering, Aranmula",
+    "location": "Pathanamthitta",
+    "type": "Pathanamthitta",
+    "courses": "5 Courses",
+    "rating": "5.0",
+    "exams": [
+      "KEAM"
+    ],
+    "fees": "₹2.6 L",
+    "placementRating": "5.0",
+    "image": "",
+    "url": "https://www.shiksha.com/college/college-of-engineering-aranmula-pathanamthitta-60297"
+  },
+  {
+    "name": "Dr. Rizvi College of Engineering",
+    "location": "Uttar Pradesh - Other",
+    "type": "Uttar Pradesh - Other",
+    "courses": "7 Courses",
+    "rating": "5.0",
+    "exams": [
+      "JEE Main",
+      "UPTAC"
+    ],
+    "fees": "₹1.1 L - 2.45 L",
+    "placementRating": "5.0",
+    "image": "",
+    "url": "https://www.shiksha.com/college/dr-rizvi-college-of-engineering-uttar-pradesh-other-24940"
+  },
+  {
+    "name": "Southern Academy of Maritime Studies",
+    "location": "Chennai",
+    "type": "Chennai",
+    "courses": "1 Course",
+    "rating": "5.0",
+    "exams": [
+      "TNEA",
+      "CBSE 12th",
+      "Tamilnadu 12th"
+    ],
+    "fees": "₹11 L",
+    "placementRating": "5.0",
+    "image": "",
+    "url": "https://www.shiksha.com/college/southern-academy-of-maritime-studies-royapuram-chennai-35414"
+  },
+  {
+    "name": "Sawai Madhopur College of Engineering & Technology",
+    "location": "Rajasthan - Other",
+    "type": "Rajasthan - Other",
+    "courses": "5 Courses",
+    "rating": "5.0",
+    "exams": [
+      "JEE Main",
+      "REAP",
+      "CBSE 12th",
+      "RBSE 12th"
+    ],
+    "fees": "₹1.96 L",
+    "placementRating": "5.0",
+    "image": "",
+    "url": "https://www.shiksha.com/college/sawai-madhopur-college-of-engineering-technology-rajasthan-other-42401"
+  },
+  {
+    "name": "Madhav University",
+    "location": "Rajasthan - Other",
+    "type": "Rajasthan - Other",
+    "courses": "1 Course",
+    "rating": "5.0",
+    "exams": [
+      "CUET",
+      "CBSE 12th",
+      "RBSE 12th"
+    ],
+    "fees": "₹3 L",
+    "placementRating": "5.0",
+    "image": "",
+    "url": "https://www.shiksha.com/university/madhav-university-rajasthan-other-42549"
+  },
+  {
+    "name": "Sasurie Academy of Engineering",
+    "location": "Coimbatore",
+    "type": "Coimbatore",
+    "courses": "6 Courses",
+    "rating": "5.0",
+    "exams": [
+      "TNEA",
+      "CBSE 12th"
+    ],
+    "fees": "₹2 L",
+    "placementRating": "5.0",
+    "image": "",
+    "url": "https://www.shiksha.com/college/sasurie-academy-of-engineering-coimbatore-42686"
+  },
+  {
+    "name": "Bharath College of Engineering and Technology for Women",
+    "location": "Kadapa",
+    "type": "Kadapa",
+    "courses": "3 Courses",
+    "rating": "5.0",
+    "exams": [
+      "AP EAMCET"
+    ],
+    "fees": "₹1.4 L",
+    "placementRating": "5.0",
+    "image": "",
+    "url": "https://www.shiksha.com/college/bharath-college-of-engineering-and-technology-for-women-kadapa-46492"
+  },
+  {
+    "name": "CMR University",
+    "location": "Bangalore",
+    "type": "Bangalore",
+    "courses": "2 Courses",
+    "rating": "5.0",
+    "exams": [
+      "KCET"
+    ],
+    "fees": "₹16 L",
+    "placementRating": "",
+    "image": "",
+    "url": "https://www.shiksha.com/university/cmr-university-bangalore-47389"
+  },
+  {
+    "name": "ADYPU - Ajeenkya DY Patil University",
+    "location": "Pune",
+    "type": "Pune",
+    "courses": "1 Course",
+    "rating": "5.0",
+    "exams": [
+      "MHT CET",
+      "JEE Main"
+    ],
+    "fees": "₹10 L",
+    "placementRating": "5.0",
+    "image": "",
+    "url": "https://www.shiksha.com/university/adypu-ajeenkya-dy-patil-university-pune-52118"
+  },
+  {
+    "name": "Anand Agricultural University",
+    "location": "Anand",
+    "type": "Anand",
+    "courses": "2 Courses",
+    "rating": "5.0",
+    "exams": [
+      "GUJCET",
+      "ICAR AIEEA"
+    ],
+    "fees": "– / –",
+    "placementRating": "",
+    "image": "",
+    "url": "https://www.shiksha.com/university/anand-agricultural-university-58199"
+  }
+]

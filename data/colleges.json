@@ -1,0 +1,1602 @@
+[
+  {
+    "name": "IIT Madras - Indian Institute of Technology",
+    "nirfRank": "1",
+    "fee": "₹  10.00 Lakh",
+    "image": "",
+    "placementRating": "4.4",
+    "reviewCount": "337"
+  },
+  {
+    "name": "IIT Delhi - Indian Institute of Technology",
+    "nirfRank": "2",
+    "fee": "₹  8.00 Lakh",
+    "image": "",
+    "placementRating": "4.4",
+    "reviewCount": "614"
+  },
+  {
+    "name": "IIT Bombay - Indian Institute of Technology",
+    "nirfRank": "3",
+    "fee": "₹  8.00 Lakh",
+    "image": "",
+    "placementRating": "4.6",
+    "reviewCount": "436"
+  },
+  {
+    "name": "IIT Kanpur - Indian Institute of Technology",
+    "nirfRank": "4",
+    "fee": "₹  8.00 Lakh",
+    "image": "",
+    "placementRating": "4.5",
+    "reviewCount": "394"
+  },
+  {
+    "name": "IIT Kharagpur - Indian Institute of Technology",
+    "nirfRank": "5",
+    "fee": "₹  8.00 Lakh",
+    "image": "",
+    "placementRating": "4.4",
+    "reviewCount": "593"
+  },
+  {
+    "name": "IIT Roorkee - Indian Institute of Technology",
+    "nirfRank": "6",
+    "fee": "₹  8.00 Lakh",
+    "image": "",
+    "placementRating": "4.3",
+    "reviewCount": "594"
+  },
+  {
+    "name": "IIT Guwahati - Indian Institute of Technology",
+    "nirfRank": "7",
+    "fee": "₹  8.00 Lakh",
+    "image": "",
+    "placementRating": "4.4",
+    "reviewCount": "341"
+  },
+  {
+    "name": "IIT Hyderabad - Indian Institute of Technology",
+    "nirfRank": "8",
+    "fee": "₹  8.00 Lakh",
+    "image": "",
+    "placementRating": "4.3",
+    "reviewCount": "124"
+  },
+  {
+    "name": "NIT Trichy - National Institute of Technology",
+    "nirfRank": "9",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "4.4",
+    "reviewCount": "366"
+  },
+  {
+    "name": "Indian Institute of Technology, BHU, Varanasi",
+    "nirfRank": "10",
+    "fee": "₹  8.00 Lakh",
+    "image": "",
+    "placementRating": "4.5",
+    "reviewCount": "550"
+  },
+  {
+    "name": "VIT Vellore",
+    "nirfRank": "11",
+    "fee": "₹  7.80 Lakh",
+    "image": "",
+    "placementRating": "4.2",
+    "reviewCount": "1949"
+  },
+  {
+    "name": "Jadavpur University",
+    "nirfRank": "12",
+    "fee": "₹  20,840",
+    "image": "",
+    "placementRating": "4.4",
+    "reviewCount": "639"
+  },
+  {
+    "name": "SRM Institute of Science and Technology, Kattankulathur",
+    "nirfRank": "13",
+    "fee": "₹  11.00 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "2200"
+  },
+  {
+    "name": "College of Engineering, Anna University",
+    "nirfRank": "14",
+    "fee": "₹  48,000",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "224"
+  },
+  {
+    "name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
+    "nirfRank": "15",
+    "fee": "₹  8.00 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "587"
+  },
+  {
+    "name": "IIT Indore - Indian Institute of Technology",
+    "nirfRank": "16",
+    "fee": "₹  8.00 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "101"
+  },
+  {
+    "name": "NIT Surathkal - National Institute of Technology",
+    "nirfRank": "17",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "4.4",
+    "reviewCount": "474"
+  },
+  {
+    "name": "IIT Gandhinagar - Indian Institute of Technology",
+    "nirfRank": "18",
+    "fee": "₹  8.00 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "68"
+  },
+  {
+    "name": "NIT Rourkela - National Institute of Technology",
+    "nirfRank": "19",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "4.2",
+    "reviewCount": "685"
+  },
+  {
+    "name": "BITS Pilani - Birla Institute of Technology and Science",
+    "nirfRank": "20",
+    "fee": "₹  20.76 Lakh",
+    "image": "",
+    "placementRating": "4.4",
+    "reviewCount": "635"
+  },
+  {
+    "name": "NIT Warangal - National Institute of Technology",
+    "nirfRank": "21",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "4.3",
+    "reviewCount": "623"
+  },
+  {
+    "name": "IIT Ropar - Indian Institute of Technology",
+    "nirfRank": "22",
+    "fee": "₹  8.00 Lakh",
+    "image": "",
+    "placementRating": "4.3",
+    "reviewCount": "80"
+  },
+  {
+    "name": "Jamia Millia Islamia",
+    "nirfRank": "24",
+    "fee": "₹  64,600",
+    "image": "",
+    "placementRating": "3.6",
+    "reviewCount": "843"
+  },
+  {
+    "name": "NIT Calicut - National Institute of Technology",
+    "nirfRank": "25",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "389"
+  },
+  {
+    "name": "SOA University - Siksha 'O' Anusandhan",
+    "nirfRank": "26",
+    "fee": "₹  11.80 Lakh",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "1100"
+  },
+  {
+    "name": "DTU - Delhi Technological University",
+    "nirfRank": "27",
+    "fee": "₹  7.40 Lakh",
+    "image": "",
+    "placementRating": "4.4",
+    "reviewCount": "2613"
+  },
+  {
+    "name": "IIT Jodhpur - Indian Institute of Technology",
+    "nirfRank": "28",
+    "fee": "₹  8.00 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "127"
+  },
+  {
+    "name": "Thapar University",
+    "nirfRank": "29",
+    "fee": "₹  19.56 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "940"
+  },
+  {
+    "name": "Amity University, Noida",
+    "nirfRank": "30",
+    "fee": "₹  10.80 Lakh",
+    "image": "",
+    "placementRating": "3.6",
+    "reviewCount": "1845"
+  },
+  {
+    "name": "IIT Mandi - Indian Institute of Technology",
+    "nirfRank": "31",
+    "fee": "₹  8.08 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "74"
+  },
+  {
+    "name": "Chandigarh University (CU)",
+    "nirfRank": "32",
+    "fee": "₹  11.68 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "4725"
+  },
+  {
+    "name": "IIT Patna - Indian Institute of Technology",
+    "nirfRank": "34",
+    "fee": "₹  8.00 Lakh",
+    "image": "",
+    "placementRating": "4.2",
+    "reviewCount": "185"
+  },
+  {
+    "name": "KL (Deemed to be University)",
+    "nirfRank": "35",
+    "fee": "₹  7.20 Lakh",
+    "image": "",
+    "placementRating": "4.2",
+    "reviewCount": "372"
+  },
+  {
+    "name": "Kalasalingam Academy of Research and Education",
+    "nirfRank": "36",
+    "fee": "₹  7.40 Lakh",
+    "image": "",
+    "placementRating": "3.8",
+    "reviewCount": "478"
+  },
+  {
+    "name": "SASTRA (Deemed to be University)",
+    "nirfRank": "38",
+    "fee": "₹  1.35 Lakh",
+    "image": "",
+    "placementRating": "4.3",
+    "reviewCount": "709"
+  },
+  {
+    "name": "VNIT Nagpur - Visvesvaraya National Institute of Technology",
+    "nirfRank": "39",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "3.8",
+    "reviewCount": "382"
+  },
+  {
+    "name": "NIT Silchar - National Institute of Technology",
+    "nirfRank": "40",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "366"
+  },
+  {
+    "name": "Institute of Chemical Technology, Mumbai",
+    "nirfRank": "41",
+    "fee": "₹  60,000",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "78"
+  },
+  {
+    "name": "UPES",
+    "nirfRank": "42",
+    "fee": "₹  17.71 Lakh",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "795"
+  },
+  {
+    "name": "MNIT Jaipur - Malaviya National Institute of Technology",
+    "nirfRank": "43",
+    "fee": "₹  2.50 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "861"
+  },
+  {
+    "name": "NIT Durgapur - National Institute of Technology",
+    "nirfRank": "44",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "646"
+  },
+  {
+    "name": "NIT Delhi - National Institute of Technology",
+    "nirfRank": "45",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "146"
+  },
+  {
+    "name": "SSN College of Engineering",
+    "nirfRank": "46",
+    "fee": "₹  2.00 Lakh",
+    "image": "",
+    "placementRating": "4.4",
+    "reviewCount": "159"
+  },
+  {
+    "name": "International Institute of Information Technology, Hyderabad",
+    "nirfRank": "47",
+    "fee": "₹  16.00 Lakh",
+    "image": "",
+    "placementRating": "4.8",
+    "reviewCount": "94"
+  },
+  {
+    "name": "Birla Institute of Technology, Mesra",
+    "nirfRank": "48",
+    "fee": "₹  13.35 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "675"
+  },
+  {
+    "name": "IIEST Shibpur - Indian Institute of Engineering Science and Technology",
+    "nirfRank": "49",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "3.8",
+    "reviewCount": "372"
+  },
+  {
+    "name": "LPU - Lovely Professional University",
+    "nirfRank": "50",
+    "fee": "₹  11.20 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "4434"
+  },
+  {
+    "name": "IIST - Indian Institute of Space Science and Technology",
+    "nirfRank": "51",
+    "fee": "₹  6.25 Lakh",
+    "image": "",
+    "placementRating": "3.7",
+    "reviewCount": "57"
+  },
+  {
+    "name": "Graphic Era Deemed to be University",
+    "nirfRank": "52",
+    "fee": "₹  14.80 Lakh",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "759"
+  },
+  {
+    "name": "Saveetha Institute of Medical and Technical Sciences, Poonamallee",
+    "nirfRank": "53",
+    "fee": "₹  9.00 Lakh",
+    "image": "",
+    "placementRating": "3.8",
+    "reviewCount": "19"
+  },
+  {
+    "name": "IIT Bhubaneswar - Indian Institute of Technology",
+    "nirfRank": "54",
+    "fee": "₹  8.00 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "111"
+  },
+  {
+    "name": "NIT Patna - National Institute of Technology",
+    "nirfRank": "55",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "4.2",
+    "reviewCount": "666"
+  },
+  {
+    "name": "Netaji Subhas University of Technology",
+    "nirfRank": "57",
+    "fee": "₹  3.95 Lakh",
+    "image": "",
+    "placementRating": "4.2",
+    "reviewCount": "980"
+  },
+  {
+    "name": "National Institute of Technology, Jalandhar",
+    "nirfRank": "58",
+    "fee": "₹  2.50 Lakh",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "755"
+  },
+  {
+    "name": "Sardar Vallabhbhai National Institute of Technology, Surat",
+    "nirfRank": "59",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "640"
+  },
+  {
+    "name": "MNNIT Allahabad - Motilal Nehru National Institute of Technology",
+    "nirfRank": "60",
+    "fee": "₹  6.92 Lakh",
+    "image": "",
+    "placementRating": "4.4",
+    "reviewCount": "716"
+  },
+  {
+    "name": "IIT Tirupati - Indian Institute of Technology",
+    "nirfRank": "61",
+    "fee": "₹  8.00 Lakh",
+    "image": "",
+    "placementRating": "3.7",
+    "reviewCount": "47"
+  },
+  {
+    "name": "IIT Jammu - Indian Institute of Technology",
+    "nirfRank": "62",
+    "fee": "₹  8.00 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "69"
+  },
+  {
+    "name": "Manipal University, Jaipur",
+    "nirfRank": "64",
+    "fee": "₹  18.04 Lakh",
+    "image": "",
+    "placementRating": "3.5",
+    "reviewCount": "641"
+  },
+  {
+    "name": "IIT Palakkad - Indian Institute of Technology",
+    "nirfRank": "64",
+    "fee": "₹  8.00 Lakh",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "35"
+  },
+  {
+    "name": "Sathyabama Institute of Science and Technology",
+    "nirfRank": "66",
+    "fee": "",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "845"
+  },
+  {
+    "name": "PSGCT Coimbatore",
+    "nirfRank": "67",
+    "fee": "₹  2.00 Lakh",
+    "image": "",
+    "placementRating": "4.4",
+    "reviewCount": "236"
+  },
+  {
+    "name": "NIT Meghalaya - National Institute of Technology",
+    "nirfRank": "68",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "54"
+  },
+  {
+    "name": "Visvesvaraya Technological University",
+    "nirfRank": "69",
+    "fee": "₹  1.35 Lakh",
+    "image": "",
+    "placementRating": "3.3",
+    "reviewCount": "56"
+  },
+  {
+    "name": "UoH - University of Hyderabad",
+    "nirfRank": "70",
+    "fee": "₹  1.97 Lakh",
+    "image": "",
+    "placementRating": "3.7",
+    "reviewCount": "95"
+  },
+  {
+    "name": "NIT Raipur - National Institute of Technology",
+    "nirfRank": "71",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "575"
+  },
+  {
+    "name": "MANIT - Maulana Azad National Institute of Technology",
+    "nirfRank": "72",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "754"
+  },
+  {
+    "name": "IIT Bhilai - Indian Institute of Technology",
+    "nirfRank": "73",
+    "fee": "₹  9.00 Lakh",
+    "image": "",
+    "placementRating": "3.8",
+    "reviewCount": "40"
+  },
+  {
+    "name": "International Institute of Information Technology, Bangalore",
+    "nirfRank": "74",
+    "fee": "₹  26.32 Lakh",
+    "image": "",
+    "placementRating": "4.7",
+    "reviewCount": "22"
+  },
+  {
+    "name": "Ramaiah Institute of Technology",
+    "nirfRank": "75",
+    "fee": "₹  10.46 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "439"
+  },
+  {
+    "name": "Sant Longowal Institute of Engineering and Technology",
+    "nirfRank": "76",
+    "fee": "",
+    "image": "",
+    "placementRating": "3.4",
+    "reviewCount": "275"
+  },
+  {
+    "name": "College of Engineering, Pune",
+    "nirfRank": "77",
+    "fee": "₹  68,000",
+    "image": "",
+    "placementRating": "4.3",
+    "reviewCount": "349"
+  },
+  {
+    "name": "Banasthali Vidyapith",
+    "nirfRank": "78",
+    "fee": "₹  6.16 Lakh",
+    "image": "",
+    "placementRating": "3.7",
+    "reviewCount": "772"
+  },
+  {
+    "name": "NIT Srinagar - National Institute of Technology",
+    "nirfRank": "79",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "3.6",
+    "reviewCount": "360"
+  },
+  {
+    "name": "Rajiv Gandhi Institute of Petroleum Technology",
+    "nirfRank": "80",
+    "fee": "₹  10.77 Lakh",
+    "image": "",
+    "placementRating": "3.7",
+    "reviewCount": "112"
+  },
+  {
+    "name": "NIT Kurukshetra - National Institute of Technology",
+    "nirfRank": "81",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "648"
+  },
+  {
+    "name": "NIT Agartala - National Institute of Technology",
+    "nirfRank": "82",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "322"
+  },
+  {
+    "name": "SKCET - Sri Krishna College of Engineering and Technology",
+    "nirfRank": "83",
+    "fee": "₹  2.00 Lakh",
+    "image": "",
+    "placementRating": "4.2",
+    "reviewCount": "185"
+  },
+  {
+    "name": "Madan Mohan Malviya University of Technology",
+    "nirfRank": "84",
+    "fee": "₹  6.00 Lakh",
+    "image": "",
+    "placementRating": "3.5",
+    "reviewCount": "495"
+  },
+  {
+    "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+    "nirfRank": "85",
+    "fee": "₹  19.55 Lakh",
+    "image": "",
+    "placementRating": "4.5",
+    "reviewCount": "145"
+  },
+  {
+    "name": "Vel Tech Rangarajan Dr. Sagunthala R and D Institute of Science and Technology",
+    "nirfRank": "86",
+    "fee": "₹  10.00 Lakh",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "496"
+  },
+  {
+    "name": "IIIT Allahabad - Indian Institute of Information Technology",
+    "nirfRank": "87",
+    "fee": "₹  6.48 Lakh",
+    "image": "",
+    "placementRating": "4.7",
+    "reviewCount": "240"
+  },
+  {
+    "name": "Guru Gobind Singh Indraprastha University",
+    "nirfRank": "89",
+    "fee": "₹  4.20 Lakh",
+    "image": "",
+    "placementRating": "3.4",
+    "reviewCount": "544"
+  },
+  {
+    "name": "Andhra University College of Engineering , Andhra University, Visakhapatnam",
+    "nirfRank": "90",
+    "fee": "₹  1.78 Lakh",
+    "image": "",
+    "placementRating": "3.7",
+    "reviewCount": "366"
+  },
+  {
+    "name": "Vignan's Foundation for Science, Technology and Research",
+    "nirfRank": "91",
+    "fee": "₹  14.40 Lakh",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "800"
+  },
+  {
+    "name": "Shoolini University",
+    "nirfRank": "92",
+    "fee": "₹  10.40 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "553"
+  },
+  {
+    "name": "Christ - Kengeri Campus",
+    "nirfRank": "93",
+    "fee": "₹  8.76 Lakh",
+    "image": "",
+    "placementRating": "3.3",
+    "reviewCount": "118"
+  },
+  {
+    "name": "Chitkara University, Chandigarh",
+    "nirfRank": "94",
+    "fee": "₹  7.20 Lakh",
+    "image": "",
+    "placementRating": "4.4",
+    "reviewCount": "1354"
+  },
+  {
+    "name": "Jain Deemed-to-be University, Bangalore",
+    "nirfRank": "95",
+    "fee": "₹  7.80 Lakh",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "566"
+  },
+  {
+    "name": "C. V. Raman Global University",
+    "nirfRank": "96",
+    "fee": "₹  9.00 Lakh",
+    "image": "",
+    "placementRating": "3.8",
+    "reviewCount": "510"
+  },
+  {
+    "name": "NIT Puducherry - National Institute of Technology",
+    "nirfRank": "97",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "3.6",
+    "reviewCount": "56"
+  },
+  {
+    "name": "SR University",
+    "nirfRank": "98",
+    "fee": "₹  4.37 Lakh",
+    "image": "",
+    "placementRating": "3.8",
+    "reviewCount": "221"
+  },
+  {
+    "name": "R.V. College of Engineering",
+    "nirfRank": "99",
+    "fee": "₹  1.28 Lakh",
+    "image": "",
+    "placementRating": "4.5",
+    "reviewCount": "402"
+  },
+  {
+    "name": "Siddaganga Institute of Technology",
+    "nirfRank": "100",
+    "fee": "₹  3.86 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "318"
+  },
+  {
+    "name": "Amity University, Kolkata",
+    "nirfRank": "101-150",
+    "fee": "₹  8.56 Lakh",
+    "image": "",
+    "placementRating": "3.4",
+    "reviewCount": "194"
+  },
+  {
+    "name": "Amity University, Gurugram",
+    "nirfRank": "101-150",
+    "fee": "₹  12.60 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "476"
+  },
+  {
+    "name": "Amity University, Jaipur",
+    "nirfRank": "101-150",
+    "fee": "₹  12.72 Lakh",
+    "image": "",
+    "placementRating": "3.7",
+    "reviewCount": "339"
+  },
+  {
+    "name": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management",
+    "nirfRank": "101-150",
+    "fee": "₹  7.90 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "111"
+  },
+  {
+    "name": "Chandigarh Group of Colleges, Landran",
+    "nirfRank": "101-150",
+    "fee": "₹  6.58 Lakh",
+    "image": "",
+    "placementRating": "4.3",
+    "reviewCount": "1561"
+  },
+  {
+    "name": "Chennai Institute of Technology",
+    "nirfRank": "101-150",
+    "fee": "₹  2.00 Lakh",
+    "image": "",
+    "placementRating": "4.6",
+    "reviewCount": "205"
+  },
+  {
+    "name": "Coimbatore Institute of Technology",
+    "nirfRank": "101-150",
+    "fee": "₹  1.04 Lakh",
+    "image": "",
+    "placementRating": "4.2",
+    "reviewCount": "140"
+  },
+  {
+    "name": "College of Engineering, Trivandrum",
+    "nirfRank": "101-150",
+    "fee": "₹  34,600",
+    "image": "",
+    "placementRating": "4.3",
+    "reviewCount": "209"
+  },
+  {
+    "name": "MIT-WPU",
+    "nirfRank": "101-150",
+    "fee": "₹  14.80 Lakh",
+    "image": "",
+    "placementRating": "3.8",
+    "reviewCount": "689"
+  },
+  {
+    "name": "Galgotias University",
+    "nirfRank": "101-150",
+    "fee": "₹  6.16 Lakh",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "2064"
+  },
+  {
+    "name": "GITAM School of Technology, Visakhapatnam",
+    "nirfRank": "101-150",
+    "fee": "₹  12.21 Lakh",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "675"
+  },
+  {
+    "name": "GRIET Hyderabad",
+    "nirfRank": "101-150",
+    "fee": "₹  5.20 Lakh",
+    "image": "",
+    "placementRating": "4.5",
+    "reviewCount": "1267"
+  },
+  {
+    "name": "Hindustan Institute of Technology and Science",
+    "nirfRank": "101-150",
+    "fee": "₹  9.30 Lakh",
+    "image": "",
+    "placementRating": "3.2",
+    "reviewCount": "307"
+  },
+  {
+    "name": "IIITDM Kancheepuram - Indian Institute of Information Technology Design & Manufacturing",
+    "nirfRank": "101-150",
+    "fee": "₹  7.20 Lakh",
+    "image": "",
+    "placementRating": "3.6",
+    "reviewCount": "78"
+  },
+  {
+    "name": "IIT Dharwad - Indian Institute of Technology",
+    "nirfRank": "101-150",
+    "fee": "₹  8.00 Lakh",
+    "image": "",
+    "placementRating": "3.6",
+    "reviewCount": "68"
+  },
+  {
+    "name": "Jawaharlal Nehru Technological University, Kakinada",
+    "nirfRank": "101-150",
+    "fee": "₹  1.80 Lakh",
+    "image": "",
+    "placementRating": "3.5",
+    "reviewCount": "393"
+  },
+  {
+    "name": "Jaypee Institute of Information Technology",
+    "nirfRank": "101-150",
+    "fee": "₹  12.73 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "790"
+  },
+  {
+    "name": "Karunya Institute of Technology and Sciences",
+    "nirfRank": "101-150",
+    "fee": "₹  11.74 Lakh",
+    "image": "",
+    "placementRating": "3.7",
+    "reviewCount": "348"
+  },
+  {
+    "name": "KEC - Kongu Engineering College",
+    "nirfRank": "101-150",
+    "fee": "₹  2.00 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "236"
+  },
+  {
+    "name": "KPR Institute of Engineering and Technology",
+    "nirfRank": "101-150",
+    "fee": "",
+    "image": "",
+    "placementRating": "4.3",
+    "reviewCount": "155"
+  },
+  {
+    "name": "Mahindra University",
+    "nirfRank": "101-150",
+    "fee": "₹  20.00 Lakh",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "36"
+  },
+  {
+    "name": "Manav Rachna International Institute of Research & Studies",
+    "nirfRank": "101-150",
+    "fee": "₹  8.02 Lakh",
+    "image": "",
+    "placementRating": "3.4",
+    "reviewCount": "391"
+  },
+  {
+    "name": "MAKAUT - Maulana Abul Kalam Azad University of Technology",
+    "nirfRank": "101-150",
+    "fee": "₹  2.40 Lakh",
+    "image": "",
+    "placementRating": "3.5",
+    "reviewCount": "115"
+  },
+  {
+    "name": "Mepco Schlenk Engineering College",
+    "nirfRank": "101-150",
+    "fee": "₹  2.00 Lakh",
+    "image": "",
+    "placementRating": "3.6",
+    "reviewCount": "67"
+  },
+  {
+    "name": "NIT Arunachal Pradesh - National Institute of Technology",
+    "nirfRank": "101-150",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "3.5",
+    "reviewCount": "41"
+  },
+  {
+    "name": "NIT Goa - National Institute of Technology",
+    "nirfRank": "101-150",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "3.8",
+    "reviewCount": "58"
+  },
+  {
+    "name": "NIT Hamirpur - National Institute of Technology",
+    "nirfRank": "101-150",
+    "fee": "₹  7.69 Lakh",
+    "image": "",
+    "placementRating": "3.7",
+    "reviewCount": "439"
+  },
+  {
+    "name": "NIT Manipur - National Institute of Technology",
+    "nirfRank": "101-150",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "3.3",
+    "reviewCount": "41"
+  },
+  {
+    "name": "NIT Mizoram - National Institute of Technology",
+    "nirfRank": "101-150",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "82"
+  },
+  {
+    "name": "National Institute of Technology, Uttarakhand",
+    "nirfRank": "101-150",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "3.1",
+    "reviewCount": "82"
+  },
+  {
+    "name": "NIT Jamshedpur - National Institute of Technology",
+    "nirfRank": "101-150",
+    "fee": "",
+    "image": "",
+    "placementRating": "4.5",
+    "reviewCount": "672"
+  },
+  {
+    "name": "NITTE Meenakshi Institute of Technology",
+    "nirfRank": "101-150",
+    "fee": "₹  9.00 Lakh",
+    "image": "",
+    "placementRating": "3.8",
+    "reviewCount": "370"
+  },
+  {
+    "name": "Noida Institute of Engineering and Technology (NIET)",
+    "nirfRank": "101-150",
+    "fee": "₹  4.74 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "1680"
+  },
+  {
+    "name": "IIITDM Jabalpur - Indian Institute of Information Technology Design and Manufacturing",
+    "nirfRank": "101-150",
+    "fee": "₹  5.74 Lakh",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "237"
+  },
+  {
+    "name": "Panjab University",
+    "nirfRank": "101-150",
+    "fee": "₹  99,710",
+    "image": "",
+    "placementRating": "3.4",
+    "reviewCount": "963"
+  },
+  {
+    "name": "PES University",
+    "nirfRank": "101-150",
+    "fee": "₹  18.00 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "462"
+  },
+  {
+    "name": "PSG Institute of Technology and Applied Research",
+    "nirfRank": "101-150",
+    "fee": "₹  2.00 Lakh",
+    "image": "",
+    "placementRating": "4.2",
+    "reviewCount": "28"
+  },
+  {
+    "name": "Punjab Engineering College, Chandigarh",
+    "nirfRank": "101-150",
+    "fee": "₹  7.04 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "370"
+  },
+  {
+    "name": "Rajalakshmi Engineering College",
+    "nirfRank": "101-150",
+    "fee": "",
+    "image": "",
+    "placementRating": "4.4",
+    "reviewCount": "428"
+  },
+  {
+    "name": "Sharda University",
+    "nirfRank": "101-150",
+    "fee": "₹  12.55 Lakh",
+    "image": "",
+    "placementRating": "3.4",
+    "reviewCount": "575"
+  },
+  {
+    "name": "Sri Sairam Engineering College",
+    "nirfRank": "101-150",
+    "fee": "₹  2.00 Lakh",
+    "image": "",
+    "placementRating": "4.2",
+    "reviewCount": "241"
+  },
+  {
+    "name": "The NorthCap University",
+    "nirfRank": "101-150",
+    "fee": "₹  9.89 Lakh",
+    "image": "",
+    "placementRating": "3.7",
+    "reviewCount": "342"
+  },
+  {
+    "name": "Thiagarajar College of Engineering",
+    "nirfRank": "101-150",
+    "fee": "₹  34,400",
+    "image": "",
+    "placementRating": "4.2",
+    "reviewCount": "171"
+  },
+  {
+    "name": "University College of Engineering, Adikavi Nannaya University",
+    "nirfRank": "101-150",
+    "fee": "₹  1.40 Lakh",
+    "image": "",
+    "placementRating": "3.3",
+    "reviewCount": "3"
+  },
+  {
+    "name": "Veermata Jijabai Technological Institute - VJTI Mumbai",
+    "nirfRank": "101-150",
+    "fee": "₹  60,000",
+    "image": "",
+    "placementRating": "4.5",
+    "reviewCount": "263"
+  },
+  {
+    "name": "VELS Institute of Science, Technology and Advanced Studies (VISTAS)",
+    "nirfRank": "101-150",
+    "fee": "₹  4.64 Lakh",
+    "image": "",
+    "placementRating": "3.6",
+    "reviewCount": "140"
+  },
+  {
+    "name": "Annamalai University",
+    "nirfRank": "151-200",
+    "fee": "₹  2.00 Lakh",
+    "image": "",
+    "placementRating": "3.1",
+    "reviewCount": "152"
+  },
+  {
+    "name": "Crescent School of Life Sciences (B.S.Abdur Rahman University)",
+    "nirfRank": "151-200",
+    "fee": "₹  1.50 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "32"
+  },
+  {
+    "name": "Anurag University",
+    "nirfRank": "151-200",
+    "fee": "₹  11.40 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "564"
+  },
+  {
+    "name": "BMS College of Engineering",
+    "nirfRank": "151-200",
+    "fee": "₹  10.46 Lakh",
+    "image": "",
+    "placementRating": "4.2",
+    "reviewCount": "401"
+  },
+  {
+    "name": "Vishwakarma Institute of Information Technology",
+    "nirfRank": "151-200",
+    "fee": "₹  6.19 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "412"
+  },
+  {
+    "name": "Bharati Vidyapeeths College of Engineering",
+    "nirfRank": "151-200",
+    "fee": "₹  3.48 Lakh",
+    "image": "",
+    "placementRating": "4.3",
+    "reviewCount": "3"
+  },
+  {
+    "name": "CMR Institute of Technology, Bangalore",
+    "nirfRank": "151-200",
+    "fee": "₹  3.86 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "466"
+  },
+  {
+    "name": "Chaitanya Bharathi Institute of Technology, Hyderabad",
+    "nirfRank": "151-200",
+    "fee": "₹  5.60 Lakh",
+    "image": "",
+    "placementRating": "4.2",
+    "reviewCount": "620"
+  },
+  {
+    "name": "CVR College of Engineering",
+    "nirfRank": "151-200",
+    "fee": "₹  6.00 Lakh",
+    "image": "",
+    "placementRating": "4.4",
+    "reviewCount": "566"
+  },
+  {
+    "name": "Dayalbagh Educational Institute [DEI]",
+    "nirfRank": "151-200",
+    "fee": "₹  27,840",
+    "image": "",
+    "placementRating": "3.6",
+    "reviewCount": "436"
+  },
+  {
+    "name": "Dr. D. Y. Patil Institute Of Technology",
+    "nirfRank": "151-200",
+    "fee": "₹  3.60 Lakh",
+    "image": "",
+    "placementRating": "4.3",
+    "reviewCount": "265"
+  },
+  {
+    "name": "SRM Easwari Engineering College",
+    "nirfRank": "151-200",
+    "fee": "₹  2.00 Lakh",
+    "image": "",
+    "placementRating": "4.3",
+    "reviewCount": "223"
+  },
+  {
+    "name": "G.H. Raisoni College of Engineering, Nagpur",
+    "nirfRank": "151-200",
+    "fee": "₹  6.81 Lakh",
+    "image": "",
+    "placementRating": "3.8",
+    "reviewCount": "468"
+  },
+  {
+    "name": "GLA University",
+    "nirfRank": "151-200",
+    "fee": "₹  8.48 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "1412"
+  },
+  {
+    "name": "G.L. Bajaj Institute of Technology and Management",
+    "nirfRank": "151-200",
+    "fee": "₹  2.45 Lakh",
+    "image": "",
+    "placementRating": "4.2",
+    "reviewCount": "1202"
+  },
+  {
+    "name": "IIIT Guwahati - Indian Institute of Information Technology, Assam",
+    "nirfRank": "151-200",
+    "fee": "₹  11.00 Lakh",
+    "image": "",
+    "placementRating": "4.3",
+    "reviewCount": "107"
+  },
+  {
+    "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+    "nirfRank": "151-200",
+    "fee": "₹  5.24 Lakh",
+    "image": "",
+    "placementRating": "4.4",
+    "reviewCount": "257"
+  },
+  {
+    "name": "Institute of Aeronautical Engineering",
+    "nirfRank": "151-200",
+    "fee": "₹  3.60 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "564"
+  },
+  {
+    "name": "Institute of Engineering and Management",
+    "nirfRank": "151-200",
+    "fee": "₹  4.17 Lakh",
+    "image": "",
+    "placementRating": "4.2",
+    "reviewCount": "638"
+  },
+  {
+    "name": "J. C. Bose University of Science and Technology, YMCA",
+    "nirfRank": "151-200",
+    "fee": "₹  2.97 Lakh",
+    "image": "",
+    "placementRating": "3.6",
+    "reviewCount": "768"
+  },
+  {
+    "name": "Rajarshi Shahu College of Engineering, Pune",
+    "nirfRank": "151-200",
+    "fee": "₹  6.20 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "387"
+  },
+  {
+    "name": "KIET Group of Institutions",
+    "nirfRank": "151-200",
+    "fee": "₹  4.48 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "1459"
+  },
+  {
+    "name": "KLE Technological University",
+    "nirfRank": "151-200",
+    "fee": "₹  8.20 Lakh",
+    "image": "",
+    "placementRating": "4.2",
+    "reviewCount": "225"
+  },
+  {
+    "name": "Kumaraguru College of Technology",
+    "nirfRank": "151-200",
+    "fee": "",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "141"
+  },
+  {
+    "name": "Maharishi Markandeshwar University, Mullana",
+    "nirfRank": "151-200",
+    "fee": "₹  5.14 Lakh",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "579"
+  },
+  {
+    "name": "Maulana Azad National Urdu University",
+    "nirfRank": "151-200",
+    "fee": "₹  32,400",
+    "image": "",
+    "placementRating": "3.5",
+    "reviewCount": "42"
+  },
+  {
+    "name": "National Engineering College",
+    "nirfRank": "151-200",
+    "fee": "₹  2.00 Lakh",
+    "image": "",
+    "placementRating": "4.3",
+    "reviewCount": "40"
+  },
+  {
+    "name": "National Institute of Advanced Manufacturing Technology",
+    "nirfRank": "151-200",
+    "fee": "₹  1.42 Lakh",
+    "image": "",
+    "placementRating": "4.3",
+    "reviewCount": "116"
+  },
+  {
+    "name": "NIFTEM - National Institute of Food Technology Entrepreneurship and Management",
+    "nirfRank": "151-200",
+    "fee": "₹  6.06 Lakh",
+    "image": "",
+    "placementRating": "3.8",
+    "reviewCount": "69"
+  },
+  {
+    "name": "NIT Nagaland - National Institute of Technology",
+    "nirfRank": "151-200",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "3.7",
+    "reviewCount": "38"
+  },
+  {
+    "name": "NIT Sikkim - National Institute of Technology",
+    "nirfRank": "151-200",
+    "fee": "₹  5.00 Lakh",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "47"
+  },
+  {
+    "name": "NHCE Bangalore - New Horizon College of Engineering",
+    "nirfRank": "151-200",
+    "fee": "₹  15.00 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "209"
+  },
+  {
+    "name": "NMAM Institute of Technology",
+    "nirfRank": "151-200",
+    "fee": "₹  3.34 Lakh",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "52"
+  },
+  {
+    "name": "North Eastern Regional Institute of Science and Technology",
+    "nirfRank": "151-200",
+    "fee": "₹  32,000",
+    "image": "",
+    "placementRating": "2.9",
+    "reviewCount": "44"
+  },
+  {
+    "name": "R.M.K. Engineering College",
+    "nirfRank": "151-200",
+    "fee": "₹  2.00 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "220"
+  },
+  {
+    "name": "Rajalakshmi Institute of Technology",
+    "nirfRank": "151-200",
+    "fee": "",
+    "image": "",
+    "placementRating": "4.6",
+    "reviewCount": "269"
+  },
+  {
+    "name": "Shri Mata Vaishno Devi University",
+    "nirfRank": "151-200",
+    "fee": "",
+    "image": "",
+    "placementRating": "3.3",
+    "reviewCount": "113"
+  },
+  {
+    "name": "Sona College of Technology",
+    "nirfRank": "151-200",
+    "fee": "",
+    "image": "",
+    "placementRating": "3.8",
+    "reviewCount": "101"
+  },
+  {
+    "name": "Sri Krishna College of Technology [SKCT]",
+    "nirfRank": "151-200",
+    "fee": "₹  2.00 Lakh",
+    "image": "",
+    "placementRating": "4.2",
+    "reviewCount": "152"
+  },
+  {
+    "name": "Sri Ramakrishna Engineering College",
+    "nirfRank": "151-200",
+    "fee": "₹  3.00 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "140"
+  },
+  {
+    "name": "Sri Venkateswara College of Engineering",
+    "nirfRank": "151-200",
+    "fee": "₹  1.88 Lakh",
+    "image": "",
+    "placementRating": "3.5",
+    "reviewCount": "10"
+  },
+  {
+    "name": "Tezpur University",
+    "nirfRank": "151-200",
+    "fee": "₹  1.20 Lakh",
+    "image": "",
+    "placementRating": "3.1",
+    "reviewCount": "163"
+  },
+  {
+    "name": "The National Institute of Engineering",
+    "nirfRank": "151-200",
+    "fee": "₹  2.83 Lakh",
+    "image": "",
+    "placementRating": "4.1",
+    "reviewCount": "122"
+  },
+  {
+    "name": "VNR Vignana Jyothi Institute of Engineering and Technology",
+    "nirfRank": "151-200",
+    "fee": "₹  5.40 Lakh",
+    "image": "",
+    "placementRating": "4.4",
+    "reviewCount": "799"
+  },
+  {
+    "name": "Vardhaman College of Engineering",
+    "nirfRank": "151-200",
+    "fee": "₹  5.60 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "405"
+  },
+  {
+    "name": "Veer Surendra Sai University of Technology",
+    "nirfRank": "151-200",
+    "fee": "₹  1.52 Lakh",
+    "image": "",
+    "placementRating": "3.8",
+    "reviewCount": "375"
+  },
+  {
+    "name": "Velagapudi Ramakrishna Siddhartha Engineering College",
+    "nirfRank": "151-200",
+    "fee": "₹  2.91 Lakh",
+    "image": "",
+    "placementRating": "4.3",
+    "reviewCount": "641"
+  },
+  {
+    "name": "Vignan’s Foundation for Science, Technology and Research, Hyderabad",
+    "nirfRank": "151-200",
+    "fee": "₹  14.40 Lakh",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "180"
+  },
+  {
+    "name": "Yeshwantrao Chavan College of Engineering, Nagar Yuwak Shikshan Sanstha",
+    "nirfRank": "151-200",
+    "fee": "₹  5.57 Lakh",
+    "image": "",
+    "placementRating": "3.7",
+    "reviewCount": "409"
+  },
+  {
+    "name": "ABES Engineering College",
+    "nirfRank": "151-200",
+    "fee": "₹  2.45 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "1218"
+  },
+  {
+    "name": "Aditya University",
+    "nirfRank": "201-250",
+    "fee": "₹  2.40 Lakh",
+    "image": "",
+    "placementRating": "3.9",
+    "reviewCount": "538"
+  },
+  {
+    "name": "Aditya Institute of Technology and Management",
+    "nirfRank": "201-250",
+    "fee": "₹  3.18 Lakh",
+    "image": "",
+    "placementRating": "3.8",
+    "reviewCount": "277"
+  },
+  {
+    "name": "Amity University, Gwalior",
+    "nirfRank": "201-250",
+    "fee": "₹  11.04 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "318"
+  },
+  {
+    "name": "Army Institute of Technology",
+    "nirfRank": "201-250",
+    "fee": "₹  6.76 Lakh",
+    "image": "",
+    "placementRating": "4.4",
+    "reviewCount": "302"
+  },
+  {
+    "name": "Bharati Vidyapeeth College of Engineering, Delhi",
+    "nirfRank": "201-250",
+    "fee": "₹  4.69 Lakh",
+    "image": "",
+    "placementRating": "3.5",
+    "reviewCount": "289"
+  },
+  {
+    "name": "Sardar Patel Institute of Technology",
+    "nirfRank": "201-250",
+    "fee": "₹  6.09 Lakh",
+    "image": "",
+    "placementRating": "4.5",
+    "reviewCount": "116"
+  },
+  {
+    "name": "Birsa Institute of Technology, Sindri",
+    "nirfRank": "201-250",
+    "fee": "₹  16,900",
+    "image": "",
+    "placementRating": "3.8",
+    "reviewCount": "568"
+  },
+  {
+    "name": "BMS Institute of Technology and Management",
+    "nirfRank": "201-250",
+    "fee": "₹  6.00 Lakh",
+    "image": "",
+    "placementRating": "4.0",
+    "reviewCount": "242"
+  },
+  {
+    "name": "Centurion University of Technology and Management, Paralakhemundi",
+    "nirfRank": "201-250",
+    "fee": "₹  6.00 Lakh",
+    "image": "",
+    "placementRating": "3.7",
+    "reviewCount": "836"
+  },
+  {
+    "name": "Chandigarh Group of Colleges, Jhanjeri",
+    "nirfRank": "201-250",
+    "fee": "₹  6.58 Lakh",
+    "image": "",
+    "placementRating": "4.3",
+    "reviewCount": "1093"
+  }
+]
